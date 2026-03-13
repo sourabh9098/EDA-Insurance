@@ -1,5 +1,7 @@
 # Insurance Dataset EDA
 
+Dataset Source: Kaggle Insurance Dataset
+
 This project performs Exploratory Data Analysis (EDA) on an insurance dataset to understand the distribution of key features and prepare the data for machine learning models.
 
 ## Dataset Features
@@ -13,7 +15,8 @@ Charges
 
 ## EDA Visualization
 
-![EDA Dashboard](Charts.png)
+Correaltion between columns
+![EDA Dashboard](correlation_heatmap.png)
 
 ## Key Insights
 
