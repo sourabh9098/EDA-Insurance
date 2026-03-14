@@ -16,7 +16,7 @@ Charges
 ## EDA Visualization
 
 Correaltion between columns
-![EDA Dashboard](correlation_heatmap.png)
+![EDA Dashboard](eda_dashboards.png)
 
 ## Key Insights
 
